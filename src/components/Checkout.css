@@ -1,0 +1,40 @@
+.checkout{
+    
+}
+
+.checkout_title{
+    margin-right: 10px;
+    padding: 10px;
+    border-bottom: 1px solid lightgray;
+}
+
+.checkout_ad{
+    width: 100%;
+    margin-bottom: 10px;
+    
+   
+}
+.shopping_heading{
+    background-color: #fff;
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 96%;
+    margin: auto;
+}
+.checkout_title{
+    
+
+}
+.checkout_title_subtotal{
+    display: flex;
+    width: 95%;
+    background-color: #fff;
+    height: 150px;
+    padding-top: 30px;
+    padding-left: 20px;
+    width: 96%;
+    margin: auto;
+    gap: 800px;
+    margin-bottom:10px;
+}
